@@ -1,109 +1,46 @@
-Hi, I'm Bavi 👋
+<h1 align="center">Hi, I'm Bavish Kannan 👋</h1>
+<h3 align="center">Data Analyst | SQL • Power BI • Python • Excel | United Kingdom</h3>
 
-
-  Aspiring Business Analyst  |  MSc Data Science  |  UK
-  Coventry University  ·  SQL · Power BI · Data Analytics
-
-
-
-  
-    
-  
-   
-  
-    
-  
-   
-  
-    
-  
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/bavi-analyst/">
+    <img src="https://img.shields.io/badge/LinkedIn-bavi--analyst-0077B5?style=flat&logo=linkedin"/>
+  </a>
+  <a href="mailto:bavishkannanuk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bavishkannanuk%40gmail.com-D14836?style=flat&logo=gmail"/>
+  </a>
+</p>
 
 ---
 
-## About me
+### About Me
 
-I am an **MSc Data Science** student at Coventry University, building hands-on technical and analytical skills to work as a **Business Analyst in the UK**.
+MSc Data Science graduate (Coventry University, 2026) building 
+a career in data analysis through real UK government datasets — 
+not practice exercises.
 
-My data science background gives me a strong foundation in working with structured data, statistical thinking, and analytical problem solving. I am now combining this with focused daily practice in **SQL (MySQL)**, **Power BI**, and **business analysis frameworks** — building a public portfolio from scratch and committing code every single day.
-
-- 🎓 **MSc Data Science** — Coventry University, UK
-- 📍 Based in Coventry, United Kingdom
-- 🎯 Targeting: Business Analyst · Junior BA · Data Analyst roles in the UK
-- 🛂 UK Graduate Route — available to work 2 years post-study, no sponsorship needed
-- 🌱 Currently learning: MySQL → Power BI → Python Pandas → BA frameworks
-- 💬 Ask me about: SQL querying, data analysis, business requirements, process mapping
+I've analysed **6+ million real records** across two self-led 
+projects, from NHS waiting lists to national police crime data.
 
 ---
 
-## 🛠 Technical skills
+### Projects
 
-| Category | Tools & Technologies |
-|---|---|
-| **Databases** | MySQL — querying, aggregation, JOINs, window functions, CTEs |
-| **Visualisation** | Power BI (in progress), Google Looker Studio, Excel Charts |
-| **Data Science** | Python (Pandas — learning), Statistical Analysis, Data Cleaning |
-| **BA Skills** | Requirements gathering, process mapping, BRD writing, user stories |
-| **Productivity** | Excel, Notion, Microsoft 365, Gamma.app |
-| **Version control** | Git, GitHub |
+| Project | Tools | Scale |
+|---------|-------|-------|
+| [NHS England RTT Waiting Times Analysis](https://github.com/bavi-analyst/NHS-RTT-Waiting-Times-Analysis) | Excel, Power BI, DAX | 3,600+ rows, 140+ NHS trusts |
+| [UK Police Knife Crime SQL Analysis](https://github.com/bavi-analyst/UK-Knife-Crime-SQL-Analysis) | Python, SQL, MySQL | 5,834,819 rows, 43 police forces |
 
 ---
 
-## 📊 Current learning progress
+### Tech Stack
 
-```
-SQL — MySQL (Analyst Builder · 89 lessons)
-████████████░░░░░░░░░░░░  Week 1 — SELECT · WHERE · GROUP BY · HAVING
-
-Power BI
-██░░░░░░░░░░░░░░░░░░░░░░  Starting Month 2
-
-Python — Pandas
-█░░░░░░░░░░░░░░░░░░░░░░░  Starting Month 3
-
-Business Analysis frameworks
-████░░░░░░░░░░░░░░░░░░░░  BRDs · User stories · Process mapping
-```
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
-## 📁 Portfolio projects
-
-| Project | Description | Status | Tools |
-|---|---|---|---|
-| [SQL-BA-Practice](https://github.com/bavi-analyst/SQL-BA-Practice) | Daily MySQL queries on UK customer data — 4-week mastery plan | 🟢 Active | MySQL |
-| Power BI Dashboard | UK public dataset visualisation | 🔜 Month 2 | Power BI |
-| Python BA Analysis | Data cleaning and analysis with Pandas | 🔜 Month 3 | Python |
-| Full BA Case Study | BRD + user stories + process map for a UK product | 🔜 Month 4 | Notion, Miro |
-
----
-
-## 📚 Education
-
-**MSc Data Science**
-Coventry University · United Kingdom · In Progress
-
-**Entrepreneurial Practice — Module 7050CRB**
-Coventry University · Business strategy, pitch development, CMI reflective practice
-
----
-
-## 📈 GitHub activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bavi-analyst&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bavi-analyst&layout=compact&theme=default&hide_border=true)
-
----
-
-## 📬 Let's connect
-
-- 🔗 **LinkedIn:** [linkedin.com/in/bavi-analyst](https://linkedin.com/in/bavi-analyst)
-- 💻 **LeetCode:** [leetcode.com/bavi-analyst](https://leetcode.com/bavi-analyst)
-- 📍 **Location:** Coventry, UK — open to remote and UK-wide roles
-- 📩 **Open to:** Business Analyst internships · Graduate BA roles · Junior Data Analyst
-
----
-
-
-  Committing code daily. Building in public. One SQL query at a time.
+### Currently
+- Open to **Junior Data Analyst**, **Reporting Analyst** and **MI Analyst** roles in the UK
+- Completing the **Analyst Builder** Data Analytics programme
